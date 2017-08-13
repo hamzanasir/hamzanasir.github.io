@@ -72,8 +72,14 @@ $(() => {
   	}
   });
 
-  svg.init('.svg-container');
-  window.onresize = () => svg.resize();
+  svg.gas.init('.gas-svg');
+  svg.reactor.init('.reactor-svg');
+  svg.filter.init('.filter-svg');
+  window.onresize = () => {
+    svg.gas.resize();
+    svg.reactor.resize();
+    svg.filter.resize();
+  };
   
   mock.init();
   

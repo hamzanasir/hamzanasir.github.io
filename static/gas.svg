@@ -1,0 +1,260 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg1" width="550" height="820">
+  <g id="gas-foreground" transform="translate(-1623.843 -167.19)">
+    <path id="path5148" fill="#fff" stroke="#ccc" stroke-width="2.4" d="M1727.3 237.3H2079v567.5h-351.8z"/>
+    <g id="cylinder-stand-3" fill="#fff" stroke="#ccc" stroke-width="2">
+      <path id="path6078-2" d="M488.8 896.5h66v33.2h-66z" transform="matrix(.755 0 0 1 1294.4 2.4)"/>
+      <path id="path6080-1" d="M488.8 929.9h66l8 20.6h-82z" transform="matrix(.755 0 0 1 1294.4 2.4)"/>
+      <path id="path6082-7" d="M480.7 950.4h82v33h-82z" transform="matrix(.755 0 0 1 1294.4 2.4)"/>
+    </g>
+    <g id="gas-source-cylinder" fill="#fff" stroke="#444" stroke-width="4" data-content="Source Cylinder" data-toggle="popover">
+      <path id="path5140" d="M1673.2 854.4v80c1.2 6.5 8.6 8 15 8 6.2.1 13-1.4 15-8v-80z"/>
+      <path id="path5142" d="M1681.4 839.4v8.2c-4.9 1.1-8.2 3.4-8.2 6 0 3.8 6.7 6.9 15 6.9s14.9-3 14.9-6.8c0-2.7-3.5-5-8.4-6.1v-8.2z" stroke-linejoin="round"/>
+    </g>
+    <g id="gas-pipes">
+      <g id="av4-av8-vacuum" fill="none" stroke="#000" stroke-width="4">
+        <path id="path5150" d="M1891.3 323.8v-80.2h164.4v144.8"/>
+        <path id="path5457" d="M2053.6 319.04h17.4"/>
+      </g>
+      <g id="av8-av10-av11-av12-av6" fill="none" stroke="#000" stroke-width="4">
+        <path id="path4727" d="M1865.2 469.66v-15.6h192.82"/>
+        <path id="path5160" d="M2056 444.2v11.9"/>
+        <path id="path5164" d="M1942.7 465.4v-11.6"/>
+        <path id="path5166" d="M2000.6 466.2v-11.6"/>
+        <path id="path5168" d="M1835.6 779.8v13.5h29.7V454"/>
+        <path id="path5170" d="M2055.9 454.1v11.7"/>
+      </g>
+      <g id="av3-av4-reg" fill="none" stroke="#000" stroke-width="4">
+        <path id="path5191" d="M1777.7 740.1V481.27"/>
+        <path id="path5193" d="M1889.3 439.6a13.3 13.3 0 0 1 11.5 6.6 13.3 13.3 0 0 1 0 13.3 13.3 13.3 0 0 1-11.5 6.7" stroke-linejoin="round"/>
+        <path id="path5196" d="M1891.3 439.7v-59.2" stroke-linejoin="round"/>
+        <path id="path5198" d="M1852.2 496.1a13.3 13.3 0 0 1 6.6-11.5 13.3 13.3 0 0 1 13.3 0 13.3 13.3 0 0 1 6.7 11.5" stroke-linejoin="round"/>
+        <path id="path5200" d="M1834 494.1h20.2"/>
+        <path id="path5202" d="M1891.2 464.1v31.6"/>
+        <path id="path5204" d="M1893.2 494h-16.4"/>
+        <path id="path5206" d="M1775.65 479.5h59.95v15.4"/>
+        <path id="path5208" d="M1835.5 492.2v24.5"/>
+      </g>
+      <g id="fv1-reg">
+        <path id="path5212" fill="none" stroke="#000" stroke-width="4" d="M1836 630.4V557"/>
+      </g>
+      <g id="av6-fv1">
+        <path id="path5215" fill="none" stroke="#000" stroke-width="4" d="M1836 685.6v39.6"/>
+      </g>
+      <g id="mv1-av3">
+        <path id="path5218" fill="none" stroke="#000" stroke-width="4" d="M1766 822.3h10.5v-27.5"/>
+      </g>
+      <g id="source-mv1">
+        <path id="path5222" fill="none" stroke="#000" stroke-width="4" d="M1688.4 840.5V822h22"/>
+      </g>
+      <g id="mv2-av10">
+        <path id="path5226" fill="none" stroke="#000" stroke-width="4" d="M1942.4 542.3v-20.9"/>
+      </g>
+      <g id="c1-mv2">
+        <path id="path5230" fill="none" stroke="#000" stroke-width="4" d="M1942.5 606.4V597"/>
+      </g>
+      <g id="mv3-av11">
+        <path id="path5234" fill="none" stroke="#000" stroke-width="4" d="M2000.6 542.9v-22.1"/>
+      </g>
+      <g id="c2-mv3">
+        <path id="path5238" fill="none" stroke="#000" stroke-width="4" d="M2000.6 605.4v-7.6"/>
+      </g>
+      <g id="mv4-av12">
+        <path id="path5242" fill="none" stroke="#000" stroke-width="4" d="M2050.7 542.3v-20.5"/>
+      </g>
+      <g id="c3-mv4">
+        <path id="path5245" fill="none" stroke="#000" stroke-width="4" d="M2051.1 606.2v-7.9"/>
+      </g>
+      <g id="av4-av8-vacuum-arrow">
+        <path id="path5252" fill="#444" stroke-opacity="0" stroke-width="14.5" d="M2068.8 311.04l13.9 8-14 8z" class="arrow" data-content="To Scrubber" data-toggle="popover" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g id="gas-valves" fill="#fff" stroke="#444" stroke-width="4">
+      <g id="gas-av3" data-content="Actuated Valve 3" data-toggle="popover" class="av">
+        <path id="gas-av3-path" d="M1741.8 758.3v19.2h18.8v-19.3zm19.3 9.6h16.6z"/>
+        <path id="gas-av3-handles" d="M1762 740.2l8 13.8 7.9 13.9-8 13.8-8 14h31.9l-8-13.9-8-13.8 8-13.8 7.9-13.8z"/>
+      </g>
+      <g id="gas-av4" data-content="Actuated Valve 4" data-toggle="popover" class="av">
+        <path id="gas-av4-path" d="M1908.7 341.7v19.2h18.7v-19.2zm-17.1 9.6h16.6z"/>
+        <path id="gas-av4-handles" d="M1875.4 323.6l8 13.9 8 13.8-8 13.8-8 13.8h32l-8-14-8-13.8 8-13.8 8-14z"/>
+      </g>
+      <g id="gas-av6" data-content="Actuated Valve 6" data-toggle="popover" class="av">
+        <path id="gas-av6-path" d="M1800.1 743.4v19.2h18.8v-19.2zm19.3 9.6h16.6z"/>
+        <path id="gas-av6-handles" d="M1820.2 725.3l8 13.8 8 13.9-8 13.8-8 14h31.9l-8-13.9-8-13.8 8-13.8 7.9-13.8z"/>
+      </g>
+      <g id="gas-av8" data-content="Actuated Valve 8" data-toggle="popover" class="av">
+        <path id="gas-av8-path" d="M2073 405.4v19.2h18.8v-19.3zm-17 9.6h16.6z"/>
+        <path id="gas-av8-handles" d="M2039.7 387.3l8 13.8 8 13.9-8 13.8-8 13.9h32l-8-13.9-8-13.8 8-13.9 8-13.8z"/>
+      </g>
+      <g id="gas-av10" data-content="Actuated Valve 10" data-toggle="popover" class="av">
+        <path id="gas-av10-path" d="M1959.5 483.8v19.3h18.7v-19.3zm-17.1 9.6h16.6z"/>
+        <path id="gas-av10-handles" d="M1926.2 465.8l8 13.8 8 13.8-8 13.9-8 13.8h32l-8-13.8-8-13.9 8-13.8 8-13.8z"/>
+      </g>
+      <g id="gas-av11" data-content="Actuated Valve 11" data-toggle="popover" class="av">
+        <path id="gas-av11-path" d="M2017.9 483.9V503h18.7v-19.3zm-17 9.6h16.5z"/>
+        <path id="gas-av11-handles" d="M1984.6 465.8l8 13.8 8 13.9-8 13.8-8 13.8h32l-8-13.8-8-13.8 8-13.9 8-13.8z"/>
+      </g>
+      <g id="gas-av12" data-content="Actuated Valve 12" data-toggle="popover" class="av">
+        <path id="gas-av12-path" d="M2068 483.8v19.3h18.8V484zm-17 9.7h16.6z"/>
+        <path id="gas-av12-handles" d="M2034.7 465.8l8 13.8 8 14-8 13.8-8 14h32l-8-13.9-8-13.8 8-13.8 8-13.8z"/>
+      </g>
+      <g id="gas-mv1" data-content="Manual Valve 1" data-toggle="popover" class="mv">
+        <path id="gas-mv1-handle" d="M1727.3 804.8h19.4"/>
+        <path id="gas-mv1-stem" d="M1736.8 822v-16.6"/>
+        <path id="gas-mv1-left" d="M1736.7 822.3l13.8 8 13.9 8v-32l-13.9 8z"/>
+        <path id="gas-mv1-right" d="M1737 822l-13.8-8-13.9-8v32l13.9-8z"/>
+      </g>
+      <g id="gas-mv2" data-content="Manual Valve 2" data-toggle="popover" class="mv">
+        <path id="gas-mv2-handle" d="M1959.7 579v-19.4"/>
+        <path id="gas-mv2-stem" d="M1942.6 569.4h16.6"/>
+        <path id="gas-mv2-left" d="M1942.2 569.5l-8-13.8-8-13.8h31.9l-8 13.8z"/>
+        <path id="gas-mv2-right" d="M1942.5 569.2l8 13.8 8 13.9h-32l8-13.9z"/>
+      </g>
+      <g id="gas-mv3" data-content="Manual Valve 3" data-toggle="popover" class="mv">
+        <path id="gas-mv3-handle" d="M2018 579.5V560"/>
+        <path id="gas-mv3-stem" d="M2001 569.9h16.6"/>
+        <path id="gas-mv3-left" d="M2000.6 570l-8-13.8-8-13.8h32l-8 14z"/>
+        <path id="gas-mv3-right" d="M2000.9 569.7l8 13.8 8 13.9h-32l8-13.9z"/>
+      </g>
+      <g id="gas-mv4" data-content="Manual Valve 4" data-toggle="popover" class="mv">
+        <path id="gas-mv4-handle" d="M2068.2 579.1v-19.4"/>
+        <path id="gas-mv4-stem" d="M2051.1 569.6h16.6"/>
+        <path id="gas-mv4-left" d="M2050.7 569.7l-8-13.8-8-13.9h32l-8 13.9z"/>
+        <path id="gas-mv4-right" d="M2051 569.4l8 13.8 8 13.9h-32l8-13.9z"/>
+      </g>
+    </g>
+    <ellipse id="ellipse5313" cx="2065.1" cy="250.7" fill="#fff" stroke="#ccc" stroke-width="2.6" rx="7.4" ry="6.6"/>
+    <ellipse id="ellipse5315" cx="1741.8" cy="250.9" fill="#fff" stroke="#ccc" stroke-width="2.6" rx="7.4" ry="6.6"/>
+    <g id="g5329" fill="#fff" stroke="#444" stroke-width="4">
+      <path id="path5317" fill="none" fill-rule="evenodd" d="M1763.8 618.6h13.2"/>
+      <path id="path5321" stroke-width="3.1" d="M1750.2 613.1v11.7h15.6v-11.7z"/>
+      <path id="path5323" stroke-width="3.1" d="M1746 610.3v17.4h3.8v-17.5z"/>
+      <path id="path5325" stroke-width="3.1" d="M1727 608.5v21h18.7v-21z"/>
+      <path id="path5327" stroke-width="3.1" d="M1727.1 629.4v11.1h12.1v-11z"/>
+    </g>
+    <g id="g5341" fill="#fff" stroke="#444" stroke-width="4">
+      <path id="path5331" fill="none" fill-rule="evenodd" d="M1863.2 761.4h49.5"/>
+      <path id="path5333" stroke-width="3.1" d="M1928 755.8v11.7h-15.7v-11.7z"/>
+      <path id="path5335" stroke-width="3.1" d="M1932.1 753v17.4h-3.8V753z"/>
+      <path id="path5337" stroke-width="3.1" d="M1951.1 751.2v21h-18.7v-21z"/>
+      <path id="path5339" stroke-width="3.1" d="M1951 772.1v11.1h-12v-11z"/>
+    </g>
+    <g id="gas-pt1-indicator" class="indicator">
+      <path id="path5343" fill="none" stroke="#000" stroke-width="1.9" d="M1726.9 617.9l-50.4-170.4" stroke-dasharray="5.71 1.9"/>
+      <circle id="gas-pt1-circle" cx="1669.3" cy="408.9" r="39.6" fill="#fff" stroke="#444" stroke-dasharray="4 2"/>
+      <text id="pt1" x="1670" y="410" fill="#444" word-spacing="0" letter-spacing="0" font-size="30" style="line-height:125%" font-family="Sans">
+        0
+      </text>
+      <text id="gas-pt1-units" x="1670" y="432.3" fill="#444" word-spacing="0" letter-spacing="0" font-size="16" style="line-height:125%" class="units" font-family="Sans">
+        psia
+      </text>
+    </g>
+    <g id="gas-pt2-indicator" class="indicator">
+      <path id="path5349" fill="none" stroke="#000" stroke-width="2" d="M2050 668.3l59.7-49.5" stroke-dasharray="6 2"/>
+      <circle id="gas-pt2-circle" cx="2133.5" cy="588.7" r="39.6" fill="#fff" stroke="#444" stroke-dasharray="4 2"/>
+      <text id="pt2" x="2132.8" y="587.4" fill="#444" word-spacing="0" letter-spacing="0" font-size="30" style="line-height:125%" font-family="Sans">
+        0
+      </text>
+      <text id="gas-pt2-units" x="2132.8" y="610.5" fill="#444" word-spacing="0" letter-spacing="0" font-size="16" style="line-height:125%" class="units" font-family="Sans">
+        psia
+      </text>
+    </g>
+    <g id="gas-pt3-indicator" class="indicator">
+      <circle id="gas-pt3-circle" cx="2014.5" cy="880.5" r="39.6" fill="#fff" stroke="#444" stroke-dasharray="4 2"/>
+      <text id="pt3" x="2013.3" y="879.9" fill="#444" word-spacing="0" letter-spacing="0" font-size="30" style="line-height:125%" font-family="Sans">
+        0
+      </text>
+      <text id="gas-pt3-units" x="2013.3" y="901.7" fill="#444" word-spacing="0" letter-spacing="0" font-size="16" style="line-height:125%" class="units" font-family="Sans">
+        psia
+      </text>
+      <path id="path5359" fill="none" stroke="#000" stroke-width="2" d="M1949.2 761.8l38.4 91.4" stroke-dasharray="6 2"/>
+    </g>
+    <g id="gas-pt4-indicator" class="indicator">
+      <path id="path5363" fill="none" stroke="#000" stroke-width="1.9" d="M1942.8 668.5l145.6 108.1" stroke-dasharray="5.75 1.92"/>
+      <circle id="gas-pt4-circle" cx="2128.4" cy="785.6" r="39.6" fill="#fff" stroke="#444" stroke-dasharray="4 2"/>
+      <text id="pt4" x="2127.7" y="784.3" fill="#444" word-spacing="0" letter-spacing="0" font-size="30" style="line-height:125%" font-family="Sans">
+        0
+      </text>
+      <text id="gas-pt4-units" x="2127.7" y="807.4" fill="#444" word-spacing="0" letter-spacing="0" font-size="16" style="line-height:125%" class="units" font-family="Sans">
+        psia
+      </text>
+    </g>
+    <g id="gas-pt5-indicator" class="indicator">
+      <path id="path5369" fill="none" stroke="#000" stroke-width="2.1" d="M1996.2 667l95.3 25.8" stroke-dasharray="6.32 2.11"/>
+      <circle id="gas-pt5-circle" cx="2131.2" cy="696.3" r="39.6" fill="#fff" stroke="#444" stroke-dasharray="4 2"/>
+      <text id="pt5" x="2130.5" y="695" fill="#444" word-spacing="0" letter-spacing="0" font-size="30" style="line-height:125%" font-family="Sans">
+        0
+      </text>
+      <text id="gas-pt5-units" x="2130.5" y="718.1" fill="#444" word-spacing="0" letter-spacing="0" font-size="16" style="line-height:125%" class="units" font-family="Sans">
+        psia
+      </text>
+    </g>
+    <g id="gas-pt6-indicator" class="indicator">
+      <path id="path5375" fill="none" stroke="#000" stroke-width="2" d="M1960.2 719.9l136.4 125.6" stroke-dasharray="6 2"/>
+      <g id="g5380" class="popover-hover">
+        <circle id="gas-pt6-circle" cx="2121.8" cy="875.7" r="39.6" fill="#fff" stroke="#444" stroke-dasharray="4 2"/>
+        <text id="pt6" x="2121.1" y="874.4" fill="#444" word-spacing="0" letter-spacing="0" font-size="30" style="line-height:125%" font-family="Sans">
+          0
+        </text>
+        <text id="gas-pt6-units" x="2121.1" y="897.5" fill="#444" word-spacing="0" letter-spacing="0" font-size="16" style="line-height:125%" class="units" font-family="Sans">
+          psia
+        </text>
+      </g>
+    </g>
+    <g id="gas-fv1-indicator" class="indicator">
+      <path id="path5383" fill="none" stroke="#000" stroke-width="2" d="M1703 656l99.1.3" stroke-dasharray="6 2"/>
+      <g id="g5388" class="popover-hover">
+        <circle id="gas-fv1-circle" cx="1664.6" cy="655.2" r="39.6" fill="#fff" stroke="#444" stroke-dasharray="4 2"/>
+        <text id="fv1" x="1666.2" y="656.9" fill="#444" word-spacing="0" letter-spacing="0" font-size="30" style="line-height:125%" font-family="Sans">
+          0
+        </text>
+        <text id="gas-fv1-units" x="1666.2" y="681.3" fill="#444" word-spacing="0" letter-spacing="0" font-size="16" style="line-height:125%" class="units" font-family="Sans">
+          sccm
+        </text>
+      </g>
+    </g>
+    <g id="g5408" fill="#fff" stroke="#444" stroke-width="4">
+      <path id="prototyper-fv2-handle-3-2-9" d="M1818.6 672.4a14.4 14.9-90 0 1-12.9-7.2 14.4 14.9-90 0 1 0-14.4 14.4 14.9-90 0 1 13-7.2V658z" stroke-linejoin="round"/>
+      <path id="prototyper-fv2-stem-4-4-0" d="M1836 657.6h-16.6"/>
+      <path id="prototyper-fv2-left-8-1-7" d="M1836.2 657.6l8 13.8 8 13.9h-32l8-14z"/>
+      <path id="prototyper-fv2-right-9-4-5" d="M1836.2 657.6l-8-13.8-8-14h32l-8 13.9z"/>
+    </g>
+    <g id="cylinder-stand-3-7" fill="#fff" stroke="#ccc" stroke-width="2">
+      <path id="path5410" stroke-width="1.4" d="M1906 904.8h50.2v20H1906z" transform="matrix(2.96 0 0 .918 -3720.9 -187.5)"/>
+      <path id="path5412" stroke-width="1.5" d="M1906.1 924.7h50l6 14.5h-62z" transform="matrix(2.96 0 0 .918 -3720.9 -187.5)"/>
+      <path id="path5414" stroke-width="1.2" d="M1899.8 941.2h62.5v16.3h-62.5z" transform="matrix(2.96 0 0 .918 -3720.9 -187.5)"/>
+    </g>
+    <g id="gas-cylinder-1" fill="#fff" stroke="#444" stroke-width="4" data-content="Sample Cylinder" data-toggle="popover">
+      <path id="path5418" d="M1929.4 620.1v44.3c1 3.5 8 4.4 13.8 4.4 5.8 0 12-1 13.8-4.5V620z"/>
+      <path id="path5420" d="M1937 606.3v7.6c-4.5 1-7.6 3.1-7.6 5.6 0 3.4 6.2 6.3 13.8 6.3 7.6 0 13.8-3 13.8-6.3 0-2.5-3.2-4.7-7.8-5.7v-7.6H1937z" stroke-linejoin="round"/>
+    </g>
+    <g id="gas-cylinder-2" fill="#fff" stroke="#444" stroke-width="4" data-content="Sample Cylinder" data-toggle="popover">
+      <path id="path5423" d="M1986.4 619.4v44.2c1.1 3.6 8 4.4 13.8 4.4 5.9 0 12-.8 14-4.4v-44.2z"/>
+      <path id="path5425" d="M1994 605.6v7.5c-4.5 1-7.6 3.2-7.6 5.6 0 3.5 6.2 6.3 13.8 6.3 7.7 0 13.9-2.8 13.9-6.3 0-2.4-3.2-4.6-7.8-5.6v-7.5z" stroke-linejoin="round"/>
+    </g>
+    <g id="gas-cylinder-3" fill="#fff" stroke="#444" stroke-width="4" data-content="Sample Cylinder" data-toggle="popover">
+      <path id="path5428" d="M2037.4 619.8V664c1 3.5 8 4.4 13.8 4.4 5.8 0 12-.8 13.8-4.4v-44.2z"/>
+      <path id="path5430" d="M2045 606v7.5c-4.5 1-7.6 3-7.6 5.6 0 3.4 6.2 6.3 13.8 6.3 7.6 0 13.8-2.8 13.8-6.3 0-2.5-3.2-4.7-7.8-5.7v-7.5H2045z" stroke-linejoin="round"/>
+    </g>
+    <path id="path5433" fill="none" stroke="#000" stroke-width="4" d="M1851.9 710a13.3 13.3 0 0 1 6.7-11.5 13.3 13.3 0 0 1 13.3 0 13.3 13.3 0 0 1 6.6 11.5" stroke-linejoin="round"/>
+    <path id="path5435" fill="none" stroke="#000" stroke-width="4" d="M1852.5 708H1836"/>
+    <g id="g5445" fill="#fff" stroke="#444" stroke-width="4" transform="rotate(-90 1451.5 553.5)">
+      <ellipse id="ellipse5437" cx="1285.3" cy="-1057.1" transform="scale(1 -1)" rx="14.7" ry="4.5" stroke-linejoin="round"/>
+      <path id="path5439" d="M1300 1029a14.7 4.5 0 0 0-7.3-4 14.7 4.5 0 0 0-14.7 0 14.7 4.5 0 0 0-7.4 4" stroke-linejoin="round"/>
+      <path id="path5441" fill-rule="evenodd" d="M1270.6 1057.1v-28.2"/>
+      <path id="path5443" fill-rule="evenodd" d="M1299.9 1057.1v-28.2"/>
+    </g>
+    <path id="path5447" fill="none" stroke="#000" stroke-width="4" d="M1922 719.8h-15.2v-13.7"/>
+    <path id="path5467" fill="none" stroke="#000" stroke-width="4" d="M1907.7 708.1h-31.3"/>
+    <g id="g5487" fill="#fff" stroke="#444" transform="rotate(-90 1579 186.8)">
+      <circle id="circle5469" cx="1228.6" cy="443.5" r="19.9" fill-rule="evenodd" stroke-width="4.4"/>
+      <path id="path5471" stroke-width="4" d="M1238.2 452.4c-1.6 1.7-.5 2.7-2.5 3.8-2 1.2-2.4-.3-4.7.2-2.3.5-2 2-4.3 1.6-2.3-.3-1.7-1.6-3.8-2.6-2.1-.9-2.8.4-4.5-1.2-1.7-1.6-.5-2.3-1.6-4.3s-2.5-1.3-3-3.6c-.4-2.2 1-2 1.4-4.4.3-2.3-1.2-2.5-.2-4.6 1-2.1 2-1 3.7-2.8 1.5-1.7.5-2.7 2.5-3.8 2-1 2.3.3 4.6 0s2-2 4.3-1.7c2.3.3 1.7 1.7 3.8 2.6 2 1 2.7-.3 4.4 1.3 1.7 1.6.4 2.3 1.5 4.4 1 2 2.4 1.3 2.8 3.6.4 2.2-1 2.1-1.3 4.4-.3 2.3 1.2 2.5.2 4.6-1 2.1-2.1 1.2-3.7 2.9z"/>
+      <circle id="circle5473" cx="1228.5" cy="443.4" r="7.2" stroke-width="3.8"/>
+      <path id="path5475" stroke-width="4.3" d="M1241.8 410.9l9.3 5.3-7.6 13.1-9.3-5.4z"/>
+      <path id="path5477" stroke-width="4.3" d="M1250.8 402.3l3.2 1.8-6 10.2-3.2-1.8z"/>
+      <circle id="circle5479" cx="1286" cy="-289.9" r="12.3" stroke-width="3.8" transform="rotate(30)"/>
+      <path id="path5481" stroke-width="4.3" d="M1215.3 410.9l-9.3 5.3 7.5 13.1 9.3-5.4z"/>
+      <path id="path5483" stroke-width="4.3" d="M1206.2 402.3l-3.1 1.8 5.9 10.2 3-1.8z"/>
+      <circle cx="-841.8" cy="938.7" r="12.3" stroke-width="3.8" transform="scale(-1 1) rotate(30)"/>
+    </g>
+  </g>
+</svg>
