@@ -1,4 +1,4 @@
-/* globals $, svg, mock */
+/* globals Clipboard, $, svg, mock */
 $(() => {
   const hovered = {
   	portrait: false,
@@ -71,6 +71,12 @@ $(() => {
   	  });
   	}
   });
+  
+  new Clipboard('#email');
+  $('[data-toggle="popover"]').popover();
+  $('#email').on('mouseleave', function() {
+    $('[data-toggle="popover"]').popover('hide');
+  });
 
   svg.gas.init('.gas-svg');
   svg.reactor.init('.reactor-svg');
@@ -123,6 +129,11 @@ $(() => {
     $('html,body').animate({
         scrollTop: $('#projects-header').position().top
     }, 1000 );
-
+  });
+  
+  $('#contact').click(function() {
+    $('html,body').animate({
+        scrollTop: $('#contact-header').position().top
+    }, 1000 );
   });
 });
