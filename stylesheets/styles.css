@@ -185,8 +185,8 @@ img {
 #mobile-icons h2 {
   color: beige;
   font-size: 30px;
-  margin-top: 4vw;
-  margin-bottom: 30vw;
+  margin-top: 2.5vh;
+  margin-bottom: 20vh;
 }
 
 #mobile-contact-row {
@@ -208,9 +208,9 @@ img {
 }
 
 #mobile-contact-row .fa-github {
-  margin-top: -21px;
+  margin-top: -27px;
   margin-left: 0.4vw;
-  font-size: 34.5vw;
+  font-size: 35.5vw;
 }
 
 #mobile-contact-row .fa-file-text {
