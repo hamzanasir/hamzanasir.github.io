@@ -11,27 +11,55 @@
 
 	<div id="landing">
 			<header>
-				<div id="icons" class="row">
-					<div class="col-md-3 col-sm-3">
+				<div id="icons" class="row hidden-sm hidden-xs">
+					<div class="col-md-3 col-sm-12">
 						<div id="projects" class="img">
 							<div class="overlay">Projects</div>
 							<i class="fa fa-pencil fa-3" aria-hidden="true"></i>
 						</div>
 					</div>
 		
-					<div class="col-md-6 col-sm-6">
+					<div class="col-md-6 col-sm-12">
 						<div id="portrait" class="img">
 							<img src="static/me1.jpg"/>
 						</div>
 					</div>
 		
-					<div class="col-md-3 col-sm-3">
+					<div class="col-md-3 col-sm-12">
 						<div id="contact" class="img">
 							<div class="overlay">Contact</div>
 							<i class="fa fa-address-book" aria-hidden="true"></i>
 						</div>
 					</div>
 				</div>
+				
+				<!--Mobile friendly landing screen-->
+				<div id="mobile-icons" class="row hidden-md hidden-lg hidden-xl">
+					<div class="col-sm-12">
+						<div id="portrait" class="img">
+							<img src="static/me1.jpg"/>
+						</div>
+					</div>
+					
+					<div class="col-sm-12">
+						<h2 class="text-center">Muhammad Hamza Nasir</h2>
+					</div>
+
+					<div class="col-sm-6">
+						<div id="projects" class="img">
+							<div class="overlay">Projects</div>
+							<i class="fa fa-pencil fa-3" aria-hidden="true"></i>
+						</div>
+					</div>
+		
+					<div class="col-sm-6">
+						<div id="contact" class="img">
+							<div class="overlay">Contact</div>
+							<i class="fa fa-address-book" aria-hidden="true"></i>
+						</div>
+					</div>
+				</div>
+
 			</header>
 		</div>
 	<div class="container">
@@ -90,29 +118,60 @@
 	  		<h1>Contact</h1>
 		</div>
 		
-		<div id="contact-row" class="row">
-			<div class="col-md-3 col-sm-3">
+		<div id="contact-row" class="row hidden-sm hidden-xs">
+			<div class="col-md-3">
 				<a href="https://github.com/hamzanasir/" class="img contact-icons">
 					<div class="overlay">Github</div>
 					<i class="fa fa-github" aria-hidden="true"></i>
 				</a>
 			</div>
 		
-			<div class="col-md-3 col-sm-3">
+			<div class="col-md-3">
 				<a href="static/resume.pdf" class="img contact-icons">
 					<div class="overlay">Resume</div>
 					<i class="fa fa-file-text" aria-hidden="true"></i>
 				</a>
 			</div>
 		
-			<div class="col-md-3 col-sm-3">
+			<div class="col-md-3">
 				<a href="https://www.linkedin.com/in/mhnasir/" class="img contact-icons">
 					<div class="overlay">LinkedIn</div>
 					<i class="fa fa-linkedin-square" aria-hidden="true"></i>
 				</a>
 			</div>
 			
-			<div class="col-md-3 col-sm-3">
+			<div class="col-md-3">
+				<a data-toggle="popover" data-placement="bottom" data-content="Email copied to cliboard" data-clipboard-target="#foo" id="email" class="img contact-icons">
+					<div id="foo" class="overlay">mnasir@hawk.iit.edu</div>
+					<i class="fa fa-envelope" aria-hidden="true"></i>
+				</a>
+			</div>
+		</div>
+		
+		<!--Mobile friendly landing screen-->
+		<div id="mobile-contact-row" class="row hidden-md hidden-lg hidden-xl">
+			<div class="col-sm-6">
+				<a href="https://github.com/hamzanasir/" class="img contact-icons">
+					<div class="overlay">Github</div>
+					<i class="fa fa-github" aria-hidden="true"></i>
+				</a>
+			</div>
+		
+			<div class="col-sm-6">
+				<a href="static/resume.pdf" class="img contact-icons">
+					<div class="overlay">Resume</div>
+					<i class="fa fa-file-text" aria-hidden="true"></i>
+				</a>
+			</div>
+		
+			<div class="col-sm-6"> 
+				<a href="https://www.linkedin.com/in/mhnasir/" class="img contact-icons">
+					<div class="overlay">LinkedIn</div>
+					<i class="fa fa-linkedin-square" aria-hidden="true"></i>
+				</a>
+			</div>
+			
+			<div class="col-sm-6">
 				<a data-toggle="popover" data-placement="bottom" data-content="Email copied to cliboard" data-clipboard-target="#foo" id="email" class="img contact-icons">
 					<div id="foo" class="overlay">mnasir@hawk.iit.edu</div>
 					<i class="fa fa-envelope" aria-hidden="true"></i>

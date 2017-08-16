@@ -89,25 +89,6 @@ $(() => {
   
   mock.init();
   
-  // var header = $('header');
-  // var range = 250;
-
-  // $(window).on('scroll', function () {
-    
-  //   var scrollTop = $(this).scrollTop(),
-  //       height = header.outerHeight(),
-  //       offset = height / 2,
-  //       calc = 1 - (scrollTop - offset + range) / range;
-  
-  //   header.css({ 'opacity': calc });
-  
-  //   if (calc > '1') {
-  //     header.css({ 'opacity': 1 });
-  //   } else if ( calc < '0' ) {
-  //     header.css({ 'opacity': 0 });
-  //   }
-  // });
-  
   var fadeStart=100, // 100px scroll or less will equiv to 1 opacity
       fadeUntil=300, // 200px scroll or more will equiv to 0 opacity
       fading = $('header');
@@ -132,6 +113,18 @@ $(() => {
   });
   
   $('#contact').click(function() {
+    $('html,body').animate({
+        scrollTop: $('#contact-header').position().top
+    }, 1000 );
+  });
+  
+  $('#mobile-icons #projects').click(function() {
+    $('html,body').animate({
+        scrollTop: $('#projects-header').position().top
+    }, 1000 );
+  });
+  
+  $('#mobile-icons #contact').click(function() {
     $('html,body').animate({
         scrollTop: $('#contact-header').position().top
     }, 1000 );

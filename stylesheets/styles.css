@@ -121,7 +121,7 @@ svg {
     100%{background-position:49% 0%}
 }*/
 
-#portrait{
+#portrait {
   flex: 0 0 17vw;
   height: 17vw;
   width: 17vw;
@@ -148,6 +148,86 @@ img {
 	width: 70vw;
 	padding-top: 32vh;
 	margin: auto;
+}
+
+#mobile-icons {
+  width: 82vw;
+	padding-top: 16vh;
+	margin: auto;
+}
+
+#mobile-icons .img {
+  flex: 0 0 24vw;
+  height: 24vw;
+  width: 24vw;
+}
+
+#mobile-icons #portrait {
+  flex: 0 0 50vw;
+  height: 50vw;
+  width: 50vw;
+}
+
+#mobile-icons .fa-pencil {
+  font-size: 16vw;
+  color: white;
+  padding-top: 2.75vw;
+  padding-left: 0.55vw;
+}
+
+#mobile-icons .fa-address-book {
+  font-size: 13.5vw;
+  color: white;
+  padding-top: 4.35vw;
+  padding-left: 1.25vw;
+}
+
+#mobile-icons h2 {
+  color: beige;
+  font-size: 30px;
+  margin-top: 4vw;
+  margin-bottom: 30vw;
+}
+
+#mobile-contact-row {
+  margin-top: 8vh;
+  margin-bottom: 34vh;
+  margin-left: auto;
+  margin-right: auto;
+  width: 78vw;
+}
+
+#mobile-contact-row .col-sm-6 {
+  height: 38vw;
+}
+
+#mobile-contact-row .img {
+  flex: 0 0 30vw;
+  height: 30vw;
+  width: 30vw;
+}
+
+#mobile-contact-row .fa-github {
+  margin-top: -21px;
+  margin-left: 0.4vw;
+  font-size: 34.5vw;
+}
+
+#mobile-contact-row .fa-file-text {
+  font-size: 18vw;
+  margin-top: 5.25vw;
+  margin-left: 1.25vw;
+}
+
+#mobile-contact-row .fa-linkedin-square {
+  font-size: 22.2vw;
+  margin-top: 3.5vw;
+}
+
+#mobile-contact-row .fa-envelope {
+  font-size: 18.5vw;
+  margin-top: 4.75vw;
+  margin-left: 0.25vw;
 }
 
 .fa-pencil {
