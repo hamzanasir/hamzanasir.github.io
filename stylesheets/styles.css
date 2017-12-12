@@ -190,7 +190,7 @@ img {
 }
 
 #mobile-contact-row {
-  margin-top: 8vh;
+  margin-top: 6vh;
   margin-bottom: 34vh;
   margin-left: auto;
   margin-right: auto;
@@ -208,20 +208,21 @@ img {
 }
 
 #mobile-contact-row .fa-github {
-  margin-top: -27px;
+  margin-top: -18px;
   margin-left: 0.4vw;
   font-size: 35.5vw;
 }
 
 #mobile-contact-row .fa-file-text {
   font-size: 18vw;
-  margin-top: 5.25vw;
+  margin-top: 5vw;
   margin-left: 1.25vw;
 }
 
 #mobile-contact-row .fa-linkedin-square {
   font-size: 22.2vw;
-  margin-top: 3.5vw;
+  margin-top: 3.3vw;
+  margin-left: 0.25vw;
 }
 
 #mobile-contact-row .fa-envelope {
@@ -338,3 +339,25 @@ svg text {
     @media (min-width: 480px) {
       .metadata .fault .name {
         font-size: 18px; } }
+
+@media only screen and (max-width: 768px) {
+  h1 {
+    font-size: 56px;
+  }
+  
+  h2 {
+    font-size: 32px;
+  }
+  
+  p, ul {
+    font-size: 20px;
+  }
+  
+  #firstRow {
+    margin-bottom: 21vh;
+  }
+  
+  #projects-header {
+    margin: 0;
+  }
+}
