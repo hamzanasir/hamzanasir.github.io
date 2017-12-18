@@ -190,7 +190,7 @@
     </g>
     <g id="gas-pt6-indicator" class="indicator">
       <path id="path5375" fill="none" stroke="#000" stroke-width="2" d="M1960.2 719.9l136.4 125.6" stroke-dasharray="6 2"/>
-      <g id="g5380" class="popover-hover">
+      <g id="g5380" class="popover-hover fv">
         <circle id="gas-pt6-circle" cx="2121.8" cy="875.7" r="39.6" fill="#fff" stroke="#444" stroke-dasharray="4 2"/>
         <text id="pt6" x="2121.1" y="874.4" fill="#444" word-spacing="0" letter-spacing="0" font-size="30" style="line-height:125%" font-family="Sans">
           0
@@ -200,7 +200,7 @@
         </text>
       </g>
     </g>
-    <g id="gas-fv1-indicator" class="indicator">
+    <g id="gas-fv1-indicator" class="indicator fv">
       <path id="path5383" fill="none" stroke="#000" stroke-width="2" d="M1703 656l99.1.3" stroke-dasharray="6 2"/>
       <g id="g5388" class="popover-hover">
         <circle id="gas-fv1-circle" cx="1664.6" cy="655.2" r="39.6" fill="#fff" stroke="#444" stroke-dasharray="4 2"/>

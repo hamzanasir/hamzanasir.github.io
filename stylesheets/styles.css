@@ -273,6 +273,10 @@ img {
 	border: 5px solid red;
 }
 
+.av, .fv {
+  cursor: pointer;
+}
+
 .svg-container {
   padding: 0 15px; }
   .svg-container .popover {
