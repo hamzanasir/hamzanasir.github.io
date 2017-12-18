@@ -57,4 +57,23 @@ $(() => {
         scrollTop: $('#contact-header').position().top
     }, 1000 );
   });
+  
+  $('.flip-container').click(function() {
+    $(this).children('.creation').css({
+      transform: 'rotateY(180deg)',
+      width: '40vw',
+      height: '40vw',
+      marginTop: '-12vw',
+      marginLeft: '-11.5vw',
+    });
+    $(this).find('.cont').css({
+      width: '40vw',
+      height: '40vw',
+    });
+  });
+  
+  $(window).scroll(function() {
+    $('.flip-container .creation').attr('style', '');
+    $('.cont').attr('style', '');
+  });
 });
